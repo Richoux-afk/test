@@ -4,7 +4,7 @@ import { products } from "../mocks/products";
 
 export function MainPage() {
   return (
-    <div className="bg-white flex flex-col gap-10 justify-center items-center overflow-x-hidden">
+    <div className="bg-white flex flex-col gap-10 justify-center items-center overflow-x-hidden font-inter">
       <header className="flex flex-col sm:flex-row justify-between items-center w-full h-auto sm:h-[110px] px-4 sm:px-8 lg:px-[80px] py-4 sm:py-0 gap-4 sm:gap-0">
         <a
           href="/"
